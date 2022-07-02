@@ -1,0 +1,58 @@
+*{
+    font-family: 'Indie Flower', cursive;
+}
+
+html{
+    font-size:62.5%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+   
+
+}
+.navbars{
+    padding: 3rem;
+
+}
+
+.font{
+    /* font-family: 'Heebo', sans-serif; */
+font-family: 'Indie Flower', cursive;
+/* font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif; */
+}
+.fonts{
+    font-family: 'Pacifico', cursive; 
+}
+.home{
+    height: 30vh;
+    background-color: antiquewhite;
+}
+.title{
+    height:7vh;
+    background-color: rgb(255, 255, 226);
+}
+.color{
+    background-color: rgb(255, 255, 226);
+}
+.bd-radiuss{
+    border-radius: .5rem;
+}
+.image-width{
+height: 5px;
+}
+.bord-items{
+    border-radius: 15px;
+    text-align: center;
+    font-size: medium;
+    border-color:rgb(255, 195, 116);
+    
+}
+.bord-items:hover{
+    background-color: rgb(243, 187, 114);
+}
+.width{
+    height: 20vh;
+}
+
